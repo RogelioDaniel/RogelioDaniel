@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://komarev.com/ghpvc/?RogelioDaniel=RogelioDaniel&label=PROFILE+VIEWS)
+[![Hits](https://hits.sh/github.com/RogelioDaniel/hits.svg)](https://hits.sh/github.com/RogelioDaniel/hits/)
