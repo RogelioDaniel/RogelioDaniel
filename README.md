@@ -1,6 +1,5 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username)
-![](https://komarev.com/ghpvc/?RogelioDaniel=RogelioDaniel&color=green)
+### Hola 👋
+![](https://komarev.com/ghpvc/?RogelioDaniel=RogelioDaniel&color=orange)
 <!--
 **RogelioDaniel/RogelioDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
